@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 {
-  printf("hello");
+  printf("hello rise");
   getch()
 }
